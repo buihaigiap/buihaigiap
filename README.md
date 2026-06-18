@@ -14,42 +14,55 @@
 
 <br/>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## 👋 Giới thiệu
+
+- 🎓 Tôi là **Bùi Hải Giáp** — Full-stack Developer đam mê công nghệ mã nguồn mở.
+- 💻 Hiện đang làm việc với **React, Next.js, Node.js, TypeScript**.
+- 🌱 Đang tiếp tục học hỏi và khám phá các công nghệ mới mỗi ngày.
+- ⚡ Thích đóng góp cho các dự án mã nguồn mở và xây dựng sản phẩm thực tế.
+- 📫 Cách tốt nhất để liên hệ với tôi: xem phần **Kết nối** ở dưới.
+
+<br/>
+
+<h2 align="center">🛠️ Công nghệ sử dụng</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,java,nodejs,express,mongodb,mysql,docker,git,github,vscode,figma&theme=dark" />
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 Thống kê GitHub</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=buihaigiap&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=buihaigiap&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buihaigiap&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" height="170"/>
 </p>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">🏆 Thành tích GitHub</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=buihaigiap&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=15" alt="Trophies" width="95%"/>
   </a>
 </p>
 
-<h2 align="center">📈 Contribution Graph</h2>
+<h2 align="center">📈 Biểu đồ đóng góp</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=buihaigiap&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
 </p>
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">🐍 Rắn đóng góp (Contribution Snake)</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/buihaigiap/buihaigiap/output/github-contribution-grid-snake.svg" alt="Snake animation" width="95%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buihaigiap/buihaigiap/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buihaigiap/buihaigiap/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/buihaigiap/buihaigiap/output/github-contribution-grid-snake.svg" width="95%"/>
+  </picture>
 </p>
-<p align="center"><i>Cần thêm 1 GitHub Action nhỏ để hiệu ứng này hoạt động — xem hướng dẫn trong tin nhắn bên dưới.</i></p>
+<p align="center"><i>Hiệu ứng này được tạo tự động bởi GitHub Action (Platane/snk) — chạy định kỳ và cập nhật branch <code>output</code>.</i></p>
 
-<h2 align="center">🤝 Connect with Me</h2>
+<h2 align="center">🤝 Kết nối với tôi</h2>
 <p align="center">
-  <a href="mailto:buihaigiap0101@gmail.com">
+  <a href="mailto:[email protected]">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/buihaigiap">
